@@ -75,6 +75,6 @@ Dự án bao gồm các thành phần chính:
 Tất cả bài kiểm thử đều thành công, chứng minh mã nguồn hoạt động ổn định và sẵn sàng sử dụng hoặc mở rộng thêm.
 
 
-[Link ChatGPT!]([https://chatgpt.com/share/677b56b8-8214-8004-b497-74d92085c2ab](https://chatgpt.com/share/677b5e55-c588-8007-8ece-f1f00b7eaf61))
+[Link ChatGPT!](https://chatgpt.com/share/677b5e55-c588-8007-8ece-f1f00b7eaf61)
 
 ![image](https://github.com/user-attachments/assets/e7b57c01-608f-4eb9-ac71-a275bd687433)
